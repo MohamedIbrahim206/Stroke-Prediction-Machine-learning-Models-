@@ -3,4 +3,5 @@
 1- Introduction 
 <br/>
 - In the introduction we provided a description for the columns of the dataset and a definition for the stroke and its symptoms.
-
+2- EDA
+<br/>
