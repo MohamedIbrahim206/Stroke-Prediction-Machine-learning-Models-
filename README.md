@@ -13,6 +13,10 @@
 <br/>
 - This part includes handling missing values, handling outliers, encoding, scaling, features selection and handling imbalanced data.
 <br/>
+<br/>
 4- Modeling 
+<br/>
+- We have applied Decision Tree, Logistic Regression, Random Forest, Support Vector Machine, AdaBoost, XGBoost, Voting and K-Nearest Neighbor.
+<br/>
 <br/>
 5- Business Solution
