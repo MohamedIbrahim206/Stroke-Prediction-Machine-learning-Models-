@@ -8,3 +8,10 @@
 <br/>
 - In this part we tried to find a relationship between the features and the target using Seaborn and matplotlib.
 <br/>
+3- Dataset Preprocessing
+<br/>
+- This part includes handling missing values, handling outliers, encoding, scaling, features selection and handling imbalanced data.
+<br/>
+4- Modeling 
+<br/>
+5- Business Solution
